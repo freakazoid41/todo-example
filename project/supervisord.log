@@ -1,0 +1,133 @@
+2022-10-10 07:22:29,470 CRIT Supervisor running as root (no user in config file)
+2022-10-10 07:22:29,472 INFO supervisord started with pid 1
+2022-10-10 07:22:30,478 INFO spawned: 'postgresql' with pid 10
+2022-10-10 07:22:30,482 INFO spawned: 'apache2' with pid 11
+2022-10-10 07:22:31,707 INFO success: postgresql entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-10 07:22:31,707 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-10 07:22:31,711 INFO exited: apache2 (exit status 0; expected)
+2022-10-10 07:22:32,925 INFO exited: postgresql (exit status 0; expected)
+2022-10-10 07:27:45,932 WARN received SIGTERM indicating exit request
+2022-10-10 07:27:46,638 CRIT Supervisor running as root (no user in config file)
+2022-10-10 07:27:46,640 INFO supervisord started with pid 1
+2022-10-10 07:27:47,646 INFO spawned: 'postgresql' with pid 9
+2022-10-10 07:27:47,650 INFO spawned: 'apache2' with pid 10
+2022-10-10 07:27:47,786 INFO exited: apache2 (exit status 0; not expected)
+2022-10-10 07:27:48,791 INFO success: postgresql entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-10 07:27:48,794 INFO spawned: 'apache2' with pid 59
+2022-10-10 07:27:49,038 INFO reaped unknown pid 43
+2022-10-10 07:27:49,989 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-10 07:27:49,989 INFO exited: postgresql (exit status 0; expected)
+2022-10-10 07:27:51,103 INFO exited: apache2 (exit status 0; expected)
+2022-10-10 07:54:58,894 WARN received SIGTERM indicating exit request
+2022-10-10 17:45:09,859 CRIT Supervisor running as root (no user in config file)
+2022-10-10 17:45:09,863 INFO supervisord started with pid 1
+2022-10-10 17:45:10,865 INFO spawned: 'postgresql' with pid 9
+2022-10-10 17:45:10,865 INFO spawned: 'apache2' with pid 10
+2022-10-10 17:45:12,048 INFO success: postgresql entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-10 17:45:12,048 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-10 17:45:12,058 INFO exited: apache2 (exit status 0; expected)
+2022-10-10 17:45:13,370 INFO exited: postgresql (exit status 0; expected)
+2022-10-10 18:00:37,092 WARN received SIGTERM indicating exit request
+2022-10-10 18:00:37,788 CRIT Supervisor running as root (no user in config file)
+2022-10-10 18:00:37,789 INFO supervisord started with pid 1
+2022-10-10 18:00:38,794 INFO spawned: 'postgresql' with pid 9
+2022-10-10 18:00:38,797 INFO spawned: 'apache2' with pid 10
+2022-10-10 18:00:38,948 INFO exited: apache2 (exit status 0; not expected)
+2022-10-10 18:00:39,952 INFO success: postgresql entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-10 18:00:39,953 INFO spawned: 'apache2' with pid 59
+2022-10-10 18:00:40,094 INFO reaped unknown pid 43
+2022-10-10 18:00:41,096 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-10 18:00:41,263 INFO exited: postgresql (exit status 0; expected)
+2022-10-10 18:00:42,147 INFO exited: apache2 (exit status 0; expected)
+2022-10-10 18:52:27,055 CRIT Supervisor running as root (no user in config file)
+2022-10-10 18:52:27,058 INFO supervisord started with pid 1
+2022-10-10 18:52:28,062 INFO spawned: 'postgresql' with pid 9
+2022-10-10 18:52:28,066 INFO spawned: 'apache2' with pid 10
+2022-10-10 18:52:29,256 INFO success: postgresql entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-10 18:52:29,256 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-10 18:52:29,268 INFO exited: apache2 (exit status 0; expected)
+2022-10-10 18:52:30,671 INFO exited: postgresql (exit status 0; expected)
+2022-10-10 18:56:39,542 INFO reaped unknown pid 126
+2022-10-10 19:03:10,966 INFO reaped unknown pid 42
+2022-10-10 19:10:30,303 WARN received SIGTERM indicating exit request
+2022-10-12 13:01:00,123 CRIT Supervisor running as root (no user in config file)
+2022-10-12 13:01:00,126 INFO supervisord started with pid 1
+2022-10-12 13:01:01,131 INFO spawned: 'postgresql' with pid 10
+2022-10-12 13:01:01,132 INFO spawned: 'apache2' with pid 11
+2022-10-12 13:01:02,483 INFO success: postgresql entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-12 13:01:02,483 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-12 13:01:02,491 INFO exited: apache2 (exit status 0; expected)
+2022-10-12 13:01:04,193 INFO exited: postgresql (exit status 0; expected)
+2022-10-12 13:07:29,999 WARN received SIGTERM indicating exit request
+2022-10-12 19:26:17,335 CRIT Supervisor running as root (no user in config file)
+2022-10-12 19:26:17,338 INFO supervisord started with pid 1
+2022-10-12 19:26:18,344 INFO spawned: 'postgresql' with pid 9
+2022-10-12 19:26:18,345 INFO spawned: 'apache2' with pid 10
+2022-10-12 19:26:19,531 INFO success: postgresql entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-12 19:26:19,531 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-12 19:26:19,540 INFO exited: apache2 (exit status 0; expected)
+2022-10-12 19:26:21,321 INFO exited: postgresql (exit status 0; expected)
+2022-10-12 20:15:06,748 WARN received SIGTERM indicating exit request
+2022-10-13 06:14:00,787 CRIT Supervisor running as root (no user in config file)
+2022-10-13 06:14:00,791 INFO supervisord started with pid 1
+2022-10-13 06:14:01,795 INFO spawned: 'postgresql' with pid 9
+2022-10-13 06:14:01,799 INFO spawned: 'apache2' with pid 10
+2022-10-13 06:14:02,014 INFO exited: apache2 (exit status 0; not expected)
+2022-10-13 06:14:03,017 INFO success: postgresql entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-13 06:14:03,019 INFO spawned: 'apache2' with pid 59
+2022-10-13 06:14:03,170 INFO reaped unknown pid 42
+2022-10-13 06:14:04,173 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-13 06:14:04,454 INFO exited: postgresql (exit status 0; expected)
+2022-10-13 06:14:05,266 INFO exited: apache2 (exit status 0; expected)
+2022-10-13 06:56:42,604 WARN received SIGTERM indicating exit request
+2022-10-13 07:29:55,765 CRIT Supervisor running as root (no user in config file)
+2022-10-13 07:29:55,768 INFO supervisord started with pid 1
+2022-10-13 07:29:56,773 INFO spawned: 'postgresql' with pid 9
+2022-10-13 07:29:56,773 INFO spawned: 'apache2' with pid 10
+2022-10-13 07:29:57,988 INFO success: postgresql entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-13 07:29:57,988 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-13 07:29:57,997 INFO exited: apache2 (exit status 0; expected)
+2022-10-13 07:29:59,603 INFO exited: postgresql (exit status 0; expected)
+2022-10-13 08:22:47,306 WARN received SIGTERM indicating exit request
+2022-10-14 06:11:18,815 CRIT Supervisor running as root (no user in config file)
+2022-10-14 06:11:18,818 INFO supervisord started with pid 1
+2022-10-14 06:11:19,821 INFO spawned: 'postgresql' with pid 9
+2022-10-14 06:11:19,822 INFO spawned: 'apache2' with pid 10
+2022-10-14 06:11:20,007 INFO exited: apache2 (exit status 0; not expected)
+2022-10-14 06:11:21,010 INFO success: postgresql entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-14 06:11:21,010 INFO spawned: 'apache2' with pid 59
+2022-10-14 06:11:21,151 INFO reaped unknown pid 42
+2022-10-14 06:11:22,152 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-14 06:11:22,374 INFO exited: postgresql (exit status 0; expected)
+2022-10-14 06:11:23,216 INFO exited: apache2 (exit status 0; expected)
+2022-10-14 06:58:13,268 WARN received SIGTERM indicating exit request
+2022-10-18 08:57:31,824 CRIT Supervisor running as root (no user in config file)
+2022-10-18 08:57:31,827 INFO supervisord started with pid 1
+2022-10-18 08:57:32,832 INFO spawned: 'postgresql' with pid 9
+2022-10-18 08:57:32,833 INFO spawned: 'apache2' with pid 10
+2022-10-18 08:57:34,079 INFO success: postgresql entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-18 08:57:34,079 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-10-18 08:57:34,091 INFO exited: apache2 (exit status 0; expected)
+2022-10-18 08:57:35,696 INFO exited: postgresql (exit status 0; expected)
+2022-10-18 09:55:40,640 WARN received SIGTERM indicating exit request
+2022-11-22 06:27:59,481 CRIT Supervisor running as root (no user in config file)
+2022-11-22 06:27:59,501 INFO supervisord started with pid 1
+2022-11-22 06:28:00,503 INFO spawned: 'postgresql' with pid 9
+2022-11-22 06:28:00,504 INFO spawned: 'apache2' with pid 10
+2022-11-22 06:28:02,398 INFO success: postgresql entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-22 06:28:02,398 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-22 06:28:02,427 INFO exited: apache2 (exit status 0; expected)
+2022-11-22 06:28:08,456 INFO exited: postgresql (exit status 0; expected)
+2022-11-22 06:40:59,984 WARN received SIGTERM indicating exit request
+2022-11-22 06:41:02,260 CRIT Supervisor running as root (no user in config file)
+2022-11-22 06:41:02,262 INFO supervisord started with pid 1
+2022-11-22 06:41:03,267 INFO spawned: 'postgresql' with pid 8
+2022-11-22 06:41:03,268 INFO spawned: 'apache2' with pid 9
+2022-11-22 06:41:04,358 INFO success: postgresql entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-22 06:41:04,359 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-22 06:41:05,703 INFO exited: postgresql (exit status 0; expected)
+2022-11-22 06:41:23,600 INFO exited: apache2 (exit status 1; not expected)
+2022-11-22 06:41:24,605 INFO spawned: 'apache2' with pid 145
+2022-11-22 06:41:25,750 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-22 06:41:25,759 INFO exited: apache2 (exit status 0; expected)
+2022-11-22 06:50:26,394 WARN received SIGTERM indicating exit request
